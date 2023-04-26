@@ -17,13 +17,13 @@ This **ReactJS** project has been developed using the **JSX syntax**, inlcuding 
 Check out this video demo of the MALVA website in action:
 
 - Desktop Size:
-
+https://drive.google.com/file/d/1m63rDSTBck1PUD6x0JAY1u8KPsDm_a0D/view?usp=sharing
 
 - Tablet Size:
-
+https://drive.google.com/file/d/1mHBait9TIdO0H7wNymTf4xgSbfSL1WpC/view?usp=sharing
 
 - Mobile Size:
-
+https://drive.google.com/file/d/11dhqBG87nEKdfnkPME6xsvKFUqqY7-A_/view?usp=sharing
 
 ### Installation
 To use this project on your local computer, you'll need to follow these steps:
