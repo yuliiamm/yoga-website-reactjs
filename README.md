@@ -14,7 +14,7 @@ This **ReactJS** project has been developed using the **JSX syntax**, inlcuding 
 - **Pop-Up Forms**: The website includes pop-up forms that can be used to submit information or sign up for a newsletter. These forms are easy to use and provide a convenient way for users to interact with the website.
 
 ### Demo
-Check out this video demo of the MALVA website in action:
+Check out this video demo of the Yoga Website in action:
 
 - Desktop Size:
 https://drive.google.com/file/d/1m63rDSTBck1PUD6x0JAY1u8KPsDm_a0D/view?usp=sharing
@@ -53,3 +53,4 @@ If you have any questions or feedback about this project, please feel free to ge
 
 - Email: ymaksymiuk@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yuliia-maksymiuk-0b65aa241/)
+Thank you!
