@@ -53,4 +53,5 @@ If you have any questions or feedback about this project, please feel free to ge
 
 - Email: ymaksymiuk@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yuliia-maksymiuk-0b65aa241/)
+<br>
 Thank you!
