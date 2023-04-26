@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.blogWrapper {
+    background-color: #F5F5F5;
+    position: relative;
+}
+
+.blogList {
+    width: 75%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.blogWrapperCopy {
+
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.blogWrapperCopyp {
+    width: 50%;
+    margin: 2rem auto;
+}
+
+.blogWrapperCopyh {
+    text-decoration: none;
+    font-family: "Margarine", sans-serif;
+}
+
+.blogleafOne {
+    position: absolute;
+    bottom: .1rem;
+    right: 0;
+    z-index: 1;
+}
+
+.blogleafTwo {
+    position: absolute;
+    bottom: .1rem;
+    left: 0;
+    z-index: 1;
+}
+
+.leafelipseOne {
+    position: absolute;
+    top: .1rem;
+    left: 0;
+}
+
+.leafelipseTwo {
+    position: absolute;
+    top: .1rem;
+    right: 0;
+}
+
+
